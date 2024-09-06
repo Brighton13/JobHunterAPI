@@ -1,0 +1,7 @@
+@JobHunterAPI_HostAddress = http://localhost:5199
+
+GET {{JobHunterAPI_HostAddress}}/weatherforecast/
+X-Api-Key: your-test-api-key
+Accept: application/json
+
+###
